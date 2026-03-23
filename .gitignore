@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# Temp files
+debug_page.html
+scrape_checkpoint.json
+
+# Generated reports/plots
+_report_images/
+plots/
+prediction_analysis.pdf

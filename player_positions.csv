@@ -1,0 +1,528 @@
+player_id,name,main_position,all_positions
+502676,Giorgi Mamardashvili,Goalkeeper,Goalkeeper
+105470,Alisson,Goalkeeper,Goalkeeper
+226049,Freddie Woodman,Goalkeeper,Goalkeeper
+706815,Harvey Davies,Goalkeeper,Goalkeeper
+357119,Ibrahima Konaté,Centre-Back,Centre-Back
+1086619,Giovanni Leoni,Centre-Back,"Centre-Back, Right-Back"
+139208,Virgil van Dijk,Centre-Back,Centre-Back
+256178,Joe Gomez,Centre-Back,"Centre-Back, Right-Back"
+503679,Rhys Williams,Centre-Back,Centre-Back
+730861,Milos Kerkez,Left-Back,"Left-Back, Left Midfield"
+234803,Andrew Robertson,Left-Back,"Left-Back, Left Midfield"
+484547,Jeremie Frimpong,Right-Back,"Right-Back, Right Midfield"
+624258,Conor Bradley,Right-Back,"Right-Back, Right Midfield"
+633652,Calvin Ramsay,Right-Back,"Right-Back, Right Midfield"
+478573,Ryan Gravenberch,Defensive Midfield,"Defensive Midfield, Central Midfield"
+146310,Wataru Endo,Defensive Midfield,"Defensive Midfield, Centre-Back"
+864799,Stefan Bajcetic,Defensive Midfield,"Defensive Midfield, Centre-Back"
+534033,Alexis Mac Allister,Central Midfield,"Central Midfield, Attacking Midfield"
+433188,Curtis Jones,Central Midfield,"Central Midfield, Attacking Midfield"
+1045123,Trey Nyoni,Central Midfield,"Central Midfield, Attacking Midfield"
+598577,Florian Wirtz,Attacking Midfield,"Attacking Midfield, Left Winger"
+451276,Dominik Szoboszlai,Attacking Midfield,"Attacking Midfield, Central Midfield"
+434675,Cody Gakpo,Left Winger,"Left Winger, Centre-Forward"
+1108466,Rio Ngumoha,Left Winger,"Left Winger, Right Winger"
+148455,Mohamed Salah,Right Winger,"Right Winger, Second Striker"
+341092,Federico Chiesa,Right Winger,"Right Winger, Left Winger"
+349066,Alexander Isak,Centre-Forward,Centre-Forward
+709726,Hugo Ekitiké,Centre-Forward,Centre-Forward
+315858,Gianluigi Donnarumma,Goalkeeper,Goalkeeper
+566799,James Trafford,Goalkeeper,Goalkeeper
+116648,Marcus Bettinelli,Goalkeeper,Goalkeeper
+475959,Josko Gvardiol,Centre-Back,"Centre-Back, Left-Back"
+392757,Marc Guéhi,Centre-Back,Centre-Back
+258004,Rúben Dias,Centre-Back,Centre-Back
+763079,Abdukodir Khusanov,Centre-Back,"Centre-Back, Right-Back"
+186590,John Stones,Centre-Back,"Centre-Back, Right-Back"
+177476,Nathan Aké,Centre-Back,"Centre-Back, Left-Back"
+843595,Max Alleyne,Centre-Back,Centre-Back
+743413,Nico O'Reilly,Left-Back,"Left-Back, Attacking Midfield"
+578391,Rayan Aït-Nouri,Left-Back,"Left-Back, Left Midfield"
+601883,Matheus Nunes,Right-Back,"Right-Back, Central Midfield"
+701057,Rico Lewis,Right-Back,"Right-Back, Defensive Midfield"
+357565,Rodri,Defensive Midfield,"Defensive Midfield, Central Midfield"
+466805,Nico González,Defensive Midfield,"Defensive Midfield, Central Midfield"
+460939,Tijjani Reijnders,Central Midfield,"Central Midfield, Defensive Midfield"
+911736,Sverre Nypan,Central Midfield,"Central Midfield, Centre-Forward"
+51471,Mateo Kovacic,Central Midfield,"Central Midfield, Attacking Midfield"
+406635,Phil Foden,Attacking Midfield,"Attacking Midfield, Left Winger"
+607223,Rayan Cherki,Attacking Midfield,"Attacking Midfield, Right Winger"
+241641,Bernardo Silva,Attacking Midfield,"Attacking Midfield, Right Winger"
+486049,Jérémy Doku,Left Winger,"Left Winger, Right Winger"
+743591,Savinho,Left Winger,"Left Winger, Right Winger"
+583255,Antoine Semenyo,Right Winger,"Right Winger, Left Winger"
+418560,Erling Haaland,Centre-Forward,Centre-Forward
+445939,Omar Marmoush,Centre-Forward,"Centre-Forward, Left Winger"
+262749,David Raya,Goalkeeper,Goalkeeper
+192279,Kepa Arrizabalaga,Goalkeeper,Goalkeeper
+495666,William Saliba,Centre-Back,Centre-Back
+435338,Gabriel,Centre-Back,Centre-Back
+659813,Piero Hincapié,Centre-Back,"Centre-Back, Left-Back"
+646750,Cristhian Mosquera,Centre-Back,"Centre-Back, Right-Back"
+502821,Riccardo Calafiori,Left-Back,"Left-Back, Centre-Back"
+890721,Myles Lewis-Skelly,Left-Back,"Left-Back, Defensive Midfield"
+420243,Jurriën Timber,Right-Back,"Right-Back, Centre-Back"
+335721,Ben White,Right-Back,"Right-Back, Centre-Back"
+423440,Martín Zubimendi,Defensive Midfield,"Defensive Midfield, Central Midfield"
+148367,Christian Nørgaard,Defensive Midfield,"Defensive Midfield, Central Midfield"
+357662,Declan Rice,Central Midfield,"Central Midfield, Defensive Midfield"
+338424,Mikel Merino,Central Midfield,"Central Midfield, Centre-Forward"
+316264,Martin Ødegaard,Attacking Midfield,"Attacking Midfield, Right Winger"
+479999,Eberechi Eze,Attacking Midfield,"Attacking Midfield, Left Winger"
+655488,Gabriel Martinelli,Left Winger,"Left Winger, Right Winger"
+144028,Leandro Trossard,Left Winger,"Left Winger, Second Striker"
+433177,Bukayo Saka,Right Winger,"Right Winger, Left Winger"
+503987,Noni Madueke,Right Winger,"Right Winger, Left Winger"
+1187629,Max Dowman,Right Winger,"Right Winger, Attacking Midfield"
+325443,Viktor Gyökeres,Centre-Forward,Centre-Forward
+309400,Kai Havertz,Centre-Forward,"Centre-Forward, Attacking Midfield"
+363205,Gabriel Jesus,Centre-Forward,"Centre-Forward, Left Winger"
+403151,Robert Sánchez,Goalkeeper,Goalkeeper
+585323,Filip Jørgensen,Goalkeeper,Goalkeeper
+656316,Gabriel Slonina,Goalkeeper,Goalkeeper
+731466,Teddy Sharman-Lowe,Goalkeeper,Goalkeeper
+614258,Levi Colwill,Centre-Back,"Centre-Back, Left-Back"
+346314,Trevoh Chalobah,Centre-Back,"Centre-Back, Defensive Midfield"
+475411,Wesley Fofana,Centre-Back,"Centre-Back, Right-Back"
+910905,Mamadou Sarr,Centre-Back,Centre-Back
+258878,Tosin Adarabioyo,Centre-Back,Centre-Back
+463603,Benoît Badiashile,Centre-Back,Centre-Back
+284857,Marc Cucurella,Left-Back,"Left-Back, Left Midfield"
+904802,Jorrel Hato,Left-Back,"Left-Back, Centre-Back"
+746833,Caleb Wiley,Left-Back,"Left-Back, Left Midfield"
+472423,Reece James,Right-Back,"Right-Back, Defensive Midfield"
+620322,Malo Gusto,Right-Back,"Right-Back, Right Midfield"
+1004708,Josh Acheampong,Right-Back,"Right-Back, Centre-Back"
+687626,Moisés Caicedo,Defensive Midfield,"Defensive Midfield, Central Midfield"
+628451,Roméo Lavia,Defensive Midfield,"Defensive Midfield, Central Midfield"
+670717,Dário Essugo,Defensive Midfield,"Defensive Midfield, Central Midfield"
+648195,Enzo Fernández,Central Midfield,"Central Midfield, Defensive Midfield"
+743600,Andrey Santos,Central Midfield,"Central Midfield, Defensive Midfield"
+568177,Cole Palmer,Attacking Midfield,"Attacking Midfield, Right Winger"
+811779,Alejandro Garnacho,Left Winger,"Left Winger, Attacking Midfield"
+670882,Jamie Gittens,Left Winger,"Left Winger, Right Winger"
+537860,Mykhaylo Mudryk,Left Winger,"Left Winger, Right Winger"
+1056993,Estêvão,Right Winger,"Right Winger, Attacking Midfield"
+487465,Pedro Neto,Right Winger,"Right Winger, Left Winger"
+626724,João Pedro,Centre-Forward,"Centre-Forward, Left Winger"
+610849,Liam Delap,Centre-Forward,"Centre-Forward, Right Winger"
+938158,Marc Guiu,Centre-Forward,Centre-Forward
+286047,Guglielmo Vicario,Goalkeeper,Goalkeeper
+725912,Antonín Kinský,Goalkeeper,Goalkeeper
+428016,Brandon Austin,Goalkeeper,Goalkeeper
+557459,Micky van de Ven,Centre-Back,"Centre-Back, Left-Back"
+355915,Cristian Romero,Centre-Back,Centre-Back
+568559,Radu Drăgușin,Centre-Back,"Centre-Back, Right-Back"
+263236,Kevin Danso,Centre-Back,Centre-Back
+192765,Ben Davies,Centre-Back,"Centre-Back, Left-Back"
+556385,Destiny Udogie,Left-Back,"Left-Back, Left Midfield"
+483348,Djed Spence,Left-Back,"Left-Back, Right-Back"
+1086258,Souza,Left-Back,"Left-Back, Left Midfield"
+553875,Pedro Porro,Right-Back,"Right-Back, Right Midfield"
+354362,Rodrigo Bentancur,Defensive Midfield,"Defensive Midfield, Central Midfield"
+257455,João Palhinha,Defensive Midfield,Defensive Midfield
+410425,Yves Bissouma,Defensive Midfield,"Defensive Midfield, Central Midfield"
+866246,Lucas Bergvall,Central Midfield,"Central Midfield, Attacking Midfield"
+922693,Archie Gray,Central Midfield,"Central Midfield, Right-Back"
+488362,Conor Gallagher,Central Midfield,"Central Midfield, Attacking Midfield"
+568693,Pape Matar Sarr,Central Midfield,"Central Midfield, Defensive Midfield"
+566931,Xavi Simons,Attacking Midfield,"Attacking Midfield, Left Winger"
+431755,Dejan Kulusevski,Attacking Midfield,"Attacking Midfield, Right Winger"
+294057,James Maddison,Attacking Midfield,"Attacking Midfield, Central Midfield"
+743498,Wilson Odobert,Left Winger,"Left Winger, Right Winger"
+543499,Mohammed Kudus,Right Winger,"Right Winger, Attacking Midfield"
+258889,Dominic Solanke,Centre-Forward,Centre-Forward
+378710,Richarlison,Centre-Forward,"Centre-Forward, Left Winger"
+801734,Mathys Tel,Centre-Forward,"Centre-Forward, Left Winger"
+487969,Randal Kolo Muani,Centre-Forward,"Centre-Forward, Right Winger"
+503883,Senne Lammens,Goalkeeper,Goalkeeper
+336077,Altay Bayındır,Goalkeeper,Goalkeeper
+34130,Tom Heaton,Goalkeeper,Goalkeeper
+923831,Leny Yoro,Centre-Back,Centre-Back
+326031,Matthijs de Ligt,Centre-Back,Centre-Back
+480762,Lisandro Martínez,Centre-Back,"Centre-Back, Defensive Midfield"
+1078163,Ayden Heaven,Centre-Back,"Centre-Back, Left-Back"
+177907,Harry Maguire,Centre-Back,Centre-Back
+911424,Tyler Fredricson,Centre-Back,Centre-Back
+926952,Patrick Dorgu,Left-Back,"Left-Back, Left Midfield"
+183288,Luke Shaw,Left-Back,"Left-Back, Centre-Back"
+339340,Tyrell Malacia,Left-Back,"Left-Back, Left Midfield"
+1283997,Diego León,Left-Back,Left-Back
+357147,Diogo Dalot,Right-Back,"Right-Back, Left-Back"
+340456,Noussair Mazraoui,Right-Back,"Right-Back, Centre-Back"
+476701,Manuel Ugarte,Defensive Midfield,"Defensive Midfield, Central Midfield"
+16306,Casemiro,Defensive Midfield,"Defensive Midfield, Centre-Back"
+820374,Kobbie Mainoo,Central Midfield,"Central Midfield, Attacking Midfield"
+240306,Bruno Fernandes,Attacking Midfield,"Attacking Midfield, Central Midfield"
+346483,Mason Mount,Attacking Midfield,"Attacking Midfield, Central Midfield"
+413039,Bryan Mbeumo,Right Winger,"Right Winger, Second Striker"
+536835,Amad Diallo,Right Winger,"Right Winger, Right Midfield"
+517894,Matheus Cunha,Centre-Forward,"Centre-Forward, Left Winger"
+627442,Benjamin Sesko,Centre-Forward,Centre-Forward
+435648,Joshua Zirkzee,Centre-Forward,"Centre-Forward, Second Striker"
+1042886,Chido Obi,Centre-Forward,Centre-Forward
+427568,Aaron Ramsdale,Goalkeeper,Goalkeeper
+192080,Nick Pope,Goalkeeper,Goalkeeper
+142389,Mark Gillespie,Goalkeeper,Goalkeeper
+29712,John Ruddy,Goalkeeper,Goalkeeper
+521964,Malick Thiaw,Centre-Back,"Centre-Back, Defensive Midfield"
+361093,Sven Botman,Centre-Back,Centre-Back
+135343,Fabian Schär,Centre-Back,Centre-Back
+134270,Dan Burn,Centre-Back,"Centre-Back, Left-Back"
+670858,Lewis Hall,Left-Back,"Left-Back, Left Midfield"
+900601,Alex Murphy,Left-Back,"Left-Back, Centre-Back"
+503981,Tino Livramento,Right-Back,"Right-Back, Left-Back"
+95810,Kieran Trippier,Right-Back,"Right-Back, Right Midfield"
+184528,Emil Krafth,Right-Back,"Right-Back, Centre-Back"
+397033,Sandro Tonali,Defensive Midfield,"Defensive Midfield, Central Midfield"
+520624,Bruno Guimarães,Central Midfield,"Central Midfield, Defensive Midfield"
+503749,Jacob Ramsey,Central Midfield,"Central Midfield, Attacking Midfield"
+333241,Joelinton,Central Midfield,"Central Midfield, Attacking Midfield"
+922769,Lewis Miley,Central Midfield,"Central Midfield, Attacking Midfield"
+340329,Joe Willock,Central Midfield,"Central Midfield, Attacking Midfield"
+503733,Anthony Gordon,Left Winger,"Left Winger, Right Winger"
+398065,Harvey Barnes,Left Winger,"Left Winger, Left Midfield"
+583189,Anthony Elanga,Right Winger,"Right Winger, Left Winger"
+199527,Jacob Murphy,Right Winger,"Right Winger, Left Winger"
+455661,Nick Woltemade,Centre-Forward,"Centre-Forward, Second Striker"
+388165,Yoane Wissa,Centre-Forward,"Centre-Forward, Left Winger"
+609556,William Osula,Centre-Forward,Centre-Forward
+432914,John Victor,Goalkeeper,Goalkeeper
+85941,Stefan Ortega,Goalkeeper,Goalkeeper
+127202,Matz Sels,Goalkeeper,Goalkeeper
+201574,Angus Gunn,Goalkeeper,Goalkeeper
+1005649,Murillo,Centre-Back,Centre-Back
+413507,Nikola Milenković,Centre-Back,"Centre-Back, Right-Back"
+673492,Morato,Centre-Back,"Centre-Back, Left-Back"
+984096,Jair Cunha,Centre-Back,Centre-Back
+933017,Zach Abbott,Centre-Back,"Centre-Back, Right-Back"
+142310,Willy Boly,Centre-Back,Centre-Back
+503680,Neco Williams,Left-Back,"Left-Back, Right-Back"
+524285,Luca Netz,Left-Back,"Left-Back, Left Midfield"
+236490,Ola Aina,Right-Back,"Right-Back, Left-Back"
+708072,Nicolò Savona,Right-Back,"Right-Back, Centre-Back"
+897481,Eric da Silva Moreira,Right-Back,"Right-Back, Right Midfield"
+375885,Ibrahim Sangaré,Defensive Midfield,"Defensive Midfield, Central Midfield"
+567576,Elliot Anderson,Central Midfield,"Central Midfield, Attacking Midfield"
+497291,Nicolás Domínguez,Central Midfield,"Central Midfield, Defensive Midfield"
+425902,Ryan Yates,Central Midfield,"Central Midfield, Defensive Midfield"
+429014,Morgan Gibbs-White,Attacking Midfield,"Attacking Midfield, Central Midfield"
+741238,Omari Hutchinson,Attacking Midfield,"Attacking Midfield, Right Winger"
+583199,James McAtee,Attacking Midfield,"Attacking Midfield, Central Midfield"
+392768,Callum Hudson-Odoi,Left Winger,Left Winger
+365108,Dan Ndoye,Right Winger,"Right Winger, Right Midfield"
+540664,Dilane Bakwa,Right Winger,"Right Winger, Right Midfield"
+572265,Lorenzo Lucca,Centre-Forward,Centre-Forward
+432164,Igor Jesus,Centre-Forward,Centre-Forward
+295313,Taiwo Awoniyi,Centre-Forward,Centre-Forward
+108725,Chris Wood,Centre-Forward,Centre-Forward
+111873,Emiliano Martínez,Goalkeeper,Goalkeeper
+124884,Marco Bizot,Goalkeeper,Goalkeeper
+413403,Ezri Konsa,Centre-Back,"Centre-Back, Right-Back"
+399776,Pau Torres,Centre-Back,Centre-Back
+184573,Victor Lindelöf,Centre-Back,"Centre-Back, Right-Back"
+253677,Tyrone Mings,Centre-Back,"Centre-Back, Left-Back"
+485585,Ian Maatsen,Left-Back,"Left-Back, Left Midfield"
+126664,Lucas Digne,Left-Back,"Left-Back, Left Midfield"
+425334,Matty Cash,Right-Back,"Right-Back, Right Midfield"
+1063329,Andrés García,Right-Back,"Right-Back, Right Midfield"
+485706,Amadou Onana,Defensive Midfield,"Defensive Midfield, Central Midfield"
+394327,Boubacar Kamara,Defensive Midfield,"Defensive Midfield, Centre-Back"
+645686,Lamare Bogarde,Defensive Midfield,"Defensive Midfield, Centre-Back"
+249565,Youri Tielemans,Central Midfield,"Central Midfield, Defensive Midfield"
+447661,Douglas Luiz,Central Midfield,"Central Midfield, Defensive Midfield"
+193116,John McGinn,Central Midfield,"Central Midfield, Left Midfield"
+131978,Ross Barkley,Central Midfield,"Central Midfield, Attacking Midfield"
+503743,Morgan Rogers,Attacking Midfield,"Attacking Midfield, Right Winger"
+565822,Harvey Elliott,Attacking Midfield,"Attacking Midfield, Central Midfield"
+321247,Emiliano Buendía,Attacking Midfield,"Attacking Midfield, Right Winger"
+401173,Jadon Sancho,Left Winger,"Left Winger, Right Winger"
+387626,Leon Bailey,Right Winger,"Right Winger, Left Winger"
+1005583,Alysson,Right Winger,Right Winger
+324358,Ollie Watkins,Centre-Forward,"Centre-Forward, Left Winger"
+331726,Tammy Abraham,Centre-Forward,Centre-Forward
+258919,Dean Henderson,Goalkeeper,Goalkeeper
+296802,Walter Benítez,Goalkeeper,Goalkeeper
+196722,Remi Matthews,Goalkeeper,Goalkeeper
+434224,Maxence Lacroix,Centre-Back,Centre-Back
+578539,Chris Richards,Centre-Back,"Centre-Back, Right-Back"
+1006411,Jaydee Canvot,Centre-Back,"Centre-Back, Defensive Midfield"
+689637,Chadi Riad,Centre-Back,Centre-Back
+730893,Tyrick Mitchell,Left-Back,"Left-Back, Left Midfield"
+293194,Borna Sosa,Left-Back,"Left-Back, Left Midfield"
+1047257,Rio Cardines,Left-Back,"Left-Back, Left Midfield"
+493003,Daniel Muñoz,Right-Back,"Right-Back, Centre-Back"
+1047261,Caleb Kporha,Right-Back,"Right-Back, Right Midfield"
+85177,Nathaniel Clyne,Right-Back,"Right-Back, Left-Back"
+744149,Adam Wharton,Defensive Midfield,"Defensive Midfield, Attacking Midfield"
+543387,Cheick Doucouré,Defensive Midfield,"Defensive Midfield, Centre-Back"
+262980,Jefferson Lerma,Defensive Midfield,"Defensive Midfield, Central Midfield"
+860078,Kaden Rodney,Defensive Midfield,"Defensive Midfield, Centre-Back"
+207014,Will Hughes,Central Midfield,"Central Midfield, Left Midfield"
+356141,Daichi Kamada,Attacking Midfield,"Attacking Midfield, Second Striker"
+747009,Justin Devenny,Attacking Midfield,"Attacking Midfield, Central Midfield"
+410225,Ismaïla Sarr,Right Winger,"Right Winger, Second Striker"
+568157,Yéremy Pino,Right Winger,"Right Winger, Left Winger"
+470607,Brennan Johnson,Right Winger,"Right Winger, Left Winger"
+500689,Evann Guessand,Right Winger,"Right Winger, Centre-Forward"
+429983,Jørgen Strand Larsen,Centre-Forward,Centre-Forward
+420002,Jean-Philippe Mateta,Centre-Forward,Centre-Forward
+1124005,Christantus Uche,Centre-Forward,"Centre-Forward, Left Winger"
+340324,Eddie Nketiah,Centre-Forward,"Centre-Forward, Right Winger"
+465555,Djordje Petrovic,Goalkeeper,Goalkeeper
+481675,Christos Mandas,Goalkeeper,Goalkeeper
+52570,Fraser Forster,Goalkeeper,Goalkeeper
+463605,Bafodé Diakité,Centre-Back,"Centre-Back, Right-Back"
+469781,Marcos Senesi,Centre-Back,Centre-Back
+989112,Veljko Milosavljevic,Centre-Back,"Centre-Back, Defensive Midfield"
+611793,James Hill,Centre-Back,"Centre-Back, Right-Back"
+994604,Matai Akinmboni,Centre-Back,Centre-Back
+654539,Adrien Truffert,Left-Back,"Left-Back, Left Midfield"
+1009658,Julio Soler,Left-Back,"Left-Back, Left Midfield"
+741257,Álex Jiménez,Right-Back,"Right-Back, Left-Back"
+61841,Adam Smith,Right-Back,"Right-Back, Left-Back"
+332705,Tyler Adams,Defensive Midfield,"Defensive Midfield, Right Midfield"
+855256,Alex Scott,Central Midfield,"Central Midfield, Attacking Midfield"
+249089,Lewis Cook,Central Midfield,"Central Midfield, Defensive Midfield"
+998101,Alex Tóth,Central Midfield,"Central Midfield, Defensive Midfield"
+188077,Ryan Christie,Central Midfield,"Central Midfield, Defensive Midfield"
+330659,Justin Kluivert,Attacking Midfield,"Attacking Midfield, Left Winger"
+399434,Marcus Tavernier,Attacking Midfield,"Attacking Midfield, Left Winger"
+532776,Amine Adli,Left Winger,Left Winger
+719673,Ben Gannon-Doak,Right Winger,"Right Winger, Left Winger"
+277033,David Brooks,Right Winger,"Right Winger, Attacking Midfield"
+955357,Junior Kroupi,Centre-Forward,"Centre-Forward, Left Winger"
+1012564,Rayan,Centre-Forward,"Centre-Forward, Right Winger"
+711337,Evanilson,Centre-Forward,Centre-Forward
+251106,Enes Ünal,Centre-Forward,Centre-Forward
+565093,Bart Verbruggen,Goalkeeper,Goalkeeper
+73564,Jason Steele,Goalkeeper,Goalkeeper
+406556,Tom McGill,Goalkeeper,Goalkeeper
+576314,Jan Paul van Hecke,Centre-Back,Centre-Back
+318508,Olivier Boscagli,Centre-Back,"Centre-Back, Left-Back"
+380350,Igor Julio,Centre-Back,"Centre-Back, Left-Back"
+212847,Adam Webster,Centre-Back,"Centre-Back, Right-Back"
+148153,Lewis Dunk,Centre-Back,Centre-Back
+369316,Ferdi Kadıoğlu,Left-Back,"Left-Back, Right-Back"
+429915,Maxim De Cuyper,Left-Back,"Left-Back, Left Midfield"
+111195,Joël Veltman,Right-Back,"Right-Back, Centre-Back"
+973085,Carlos Baleba,Defensive Midfield,"Defensive Midfield, Central Midfield"
+415381,Mats Wieffer,Defensive Midfield,"Defensive Midfield, Right-Back"
+867688,Jack Hinshelwood,Defensive Midfield,"Defensive Midfield, Central Midfield"
+667287,Yasin Ayari,Central Midfield,"Central Midfield, Defensive Midfield"
+996897,Diego Gómez,Central Midfield,"Central Midfield, Attacking Midfield"
+406634,Matt O'Riley,Central Midfield,"Central Midfield, Attacking Midfield"
+82873,Pascal Groß,Central Midfield,"Central Midfield, Attacking Midfield"
+3333,James Milner,Central Midfield,"Central Midfield, Right-Back"
+504849,Kaoru Mitoma,Left Winger,"Left Winger, Left Midfield"
+1012534,Yankuba Minteh,Right Winger,"Right Winger, Left Winger"
+209212,Solly March,Right Winger,"Right Winger, Left Midfield"
+538977,Georginio Rutter,Centre-Forward,"Centre-Forward, Second Striker"
+1060087,Charalampos Kostoulas,Centre-Forward,"Centre-Forward, Attacking Midfield"
+950091,Stefanos Tzimas,Centre-Forward,Centre-Forward
+67063,Danny Welbeck,Centre-Forward,"Centre-Forward, Left Winger"
+340918,Caoimhín Kelleher,Goalkeeper,Goalkeeper
+488935,Hákon Valdimarsson,Goalkeeper,Goalkeeper
+456292,Ellery Balcombe,Goalkeeper,Goalkeeper
+1008553,Julian Eyestone,Goalkeeper,Goalkeeper
+541231,Sepp van den Berg,Centre-Back,"Centre-Back, Right-Back"
+469050,Nathan Collins,Centre-Back,Centre-Back
+328658,Kristoffer Ajer,Centre-Back,"Centre-Back, Right-Back"
+442248,Ethan Pinnock,Centre-Back,Centre-Back
+339556,Rico Henry,Left-Back,"Left-Back, Left Midfield"
+823486,Michael Kayode,Right-Back,"Right-Back, Left-Back"
+591949,Aaron Hickey,Right-Back,"Right-Back, Left-Back"
+270171,Vitaly Janelt,Defensive Midfield,"Defensive Midfield, Central Midfield"
+61651,Jordan Henderson,Defensive Midfield,"Defensive Midfield, Central Midfield"
+717411,Yegor Yarmolyuk,Central Midfield,"Central Midfield, Attacking Midfield"
+319859,Mathias Jensen,Central Midfield,Central Midfield
+340321,Josh Dasilva,Central Midfield,"Central Midfield, Defensive Midfield"
+644401,Keane Lewis-Potter,Left Midfield,"Left Midfield, Left-Back"
+540941,Mikkel Damsgaard,Attacking Midfield,"Attacking Midfield, Left Winger"
+683620,Antoni Milambo,Attacking Midfield,"Attacking Midfield, Central Midfield"
+559263,Fábio Carvalho,Attacking Midfield,"Attacking Midfield, Left Winger"
+473050,Kevin Schade,Left Winger,"Left Winger, Right Winger"
+340325,Reiss Nelson,Left Winger,"Left Winger, Right Winger"
+823231,Dango Ouattara,Right Winger,"Right Winger, Left Winger"
+1091562,Romelle Donovan,Right Winger,"Right Winger, Attacking Midfield"
+739443,Igor Thiago,Centre-Forward,Centre-Forward
+1011936,Kaye Furo,Centre-Forward,Centre-Forward
+130164,Jordan Pickford,Goalkeeper,Goalkeeper
+357658,Mark Travers,Goalkeeper,Goalkeeper
+215810,Tom King,Goalkeeper,Goalkeeper
+661053,Jarrad Branthwaite,Centre-Back,"Centre-Back, Left-Back"
+173504,James Tarkowski,Centre-Back,Centre-Back
+118534,Michael Keane,Centre-Back,Centre-Back
+404842,Vitaliy Mykolenko,Left-Back,"Left-Back, Centre-Back"
+938146,Adam Aznou,Left-Back,"Left-Back, Left Winger"
+711544,Jake O'Brien,Right-Back,"Right-Back, Centre-Back"
+424015,Nathan Patterson,Right-Back,"Right-Back, Right Midfield"
+68390,Séamus Coleman,Right-Back,"Right-Back, Right Midfield"
+505219,James Garner,Defensive Midfield,"Defensive Midfield, Central Midfield"
+126665,Idrissa Gueye,Defensive Midfield,"Defensive Midfield, Central Midfield"
+475188,Kiernan Dewsbury-Hall,Central Midfield,"Central Midfield, Defensive Midfield"
+748319,Carlos Alcaraz,Central Midfield,"Central Midfield, Attacking Midfield"
+696589,Tim Iroegbunam,Central Midfield,"Central Midfield, Defensive Midfield"
+1107733,Harrison Armstrong,Central Midfield,"Central Midfield, Defensive Midfield"
+608832,Merlin Röhl,Attacking Midfield,"Attacking Midfield, Central Midfield"
+203460,Jack Grealish,Left Winger,"Left Winger, Attacking Midfield"
+936874,Tyrique George,Left Winger,"Left Winger, Right Winger"
+584769,Dwight McNeil,Left Winger,"Left Winger, Left Midfield"
+623570,Iliman Ndiaye,Right Winger,"Right Winger, Left Winger"
+866655,Tyler Dibling,Right Winger,"Right Winger, Attacking Midfield"
+937941,Thierno Barry,Centre-Forward,Centre-Forward
+595809,Beto,Centre-Forward,Centre-Forward
+72476,Bernd Leno,Goalkeeper,Goalkeeper
+127181,Benjamin Lecomte,Goalkeeper,Goalkeeper
+461883,Calvin Bassey,Centre-Back,"Centre-Back, Left-Back"
+260827,Joachim Andersen,Centre-Back,Centre-Back
+272622,Issa Diop,Centre-Back,Centre-Back
+494880,Jorge Cuenca,Centre-Back,"Centre-Back, Left-Back"
+349701,Antonee Robinson,Left-Back,"Left-Back, Left Midfield"
+392775,Ryan Sessegnon,Left-Back,"Left-Back, Left Midfield"
+206746,Kenny Tete,Right-Back,"Right-Back, Centre-Back"
+262226,Timothy Castagne,Right-Back,"Right-Back, Right Midfield"
+333014,Sander Berge,Defensive Midfield,"Defensive Midfield, Central Midfield"
+245056,Saša Lukić,Central Midfield,"Central Midfield, Defensive Midfield"
+226973,Harrison Reed,Central Midfield,"Central Midfield, Defensive Midfield"
+123275,Tom Cairney,Central Midfield,"Central Midfield, Attacking Midfield"
+392765,Emile Smith Rowe,Attacking Midfield,"Attacking Midfield, Central Midfield"
+1011131,Josh King,Attacking Midfield,"Attacking Midfield, Central Midfield"
+900195,Kevin,Left Winger,"Left Winger, Right Winger"
+242631,Alex Iwobi,Left Winger,"Left Winger, Right Winger"
+661207,Oscar Bobb,Right Winger,"Right Winger, Attacking Midfield"
+279455,Harry Wilson,Right Winger,"Right Winger, Left Winger"
+401922,Samuel Chukwueze,Right Winger,"Right Winger, Left Winger"
+735571,Rodrigo Muniz,Centre-Forward,Centre-Forward
+206040,Raúl Jiménez,Centre-Forward,Centre-Forward
+1069512,Jonah Kusi-Asare,Centre-Forward,Centre-Forward
+646991,Robin Roefs,Goalkeeper,Goalkeeper
+605426,Melker Ellborg,Goalkeeper,Goalkeeper
+123536,Simon Moore,Goalkeeper,Goalkeeper
+503686,Dan Ballard,Centre-Back,Centre-Back
+353032,Omar Alderete,Centre-Back,"Centre-Back, Left-Back"
+282939,Luke O'Nien,Centre-Back,"Centre-Back, Right-Back"
+568006,Dennis Cirkin,Left-Back,"Left-Back, Centre-Back"
+240692,Reinildo Mandava,Left-Back,"Left-Back, Left Midfield"
+515544,Trai Hume,Right-Back,"Right-Back, Centre-Back"
+420210,Lutsharel Geertruida,Right-Back,"Right-Back, Centre-Back"
+348026,Nordi Mukiele,Right-Back,"Right-Back, Centre-Back"
+111455,Granit Xhaka,Defensive Midfield,"Defensive Midfield, Central Midfield"
+876631,Habib Diarra,Central Midfield,"Central Midfield, Attacking Midfield"
+727089,Noah Sadiki,Central Midfield,"Central Midfield, Defensive Midfield"
+633992,Enzo Le Fée,Central Midfield,"Central Midfield, Attacking Midfield"
+654412,Abdoullah Ba,Right Midfield,"Right Midfield, Central Midfield"
+947411,Chris Rigg,Attacking Midfield,"Attacking Midfield, Central Midfield"
+942738,Milan Aleksic,Attacking Midfield,"Attacking Midfield, Central Midfield"
+937840,Harrison Jones,Attacking Midfield,"Attacking Midfield, Central Midfield"
+903611,Nilson Angulo,Left Winger,"Left Winger, Right Winger"
+696181,Romaine Mundle,Left Winger,"Left Winger, Right Winger"
+743384,Chemsdine Talbi,Right Winger,"Right Winger, Left Winger"
+131996,Bertrand Traoré,Right Winger,"Right Winger, Centre-Forward"
+1322090,Jocelin Ta Bi,Right Winger,"Right Winger, Attacking Midfield"
+473169,Brian Brobbey,Centre-Forward,Centre-Forward
+967346,Eliezer Mayenda,Centre-Forward,"Centre-Forward, Right Winger"
+494237,Wilson Isidor,Centre-Forward,"Centre-Forward, Right Winger"
+1015619,Ahmed Abdullahi,Centre-Forward,Centre-Forward
+400536,Mads Hermansen,Goalkeeper,Goalkeeper
+120629,Alphonse Areola,Goalkeeper,Goalkeeper
+29692,Lukasz Fabianski,Goalkeeper,Goalkeeper
+605184,Jean-Clair Todibo,Centre-Back,Centre-Back
+525247,Maximilian Kilman,Centre-Back,"Centre-Back, Left-Back"
+386047,Axel Disasi,Centre-Back,"Centre-Back, Right-Back"
+415912,Konstantinos Mavropanos,Centre-Back,Centre-Back
+1107726,Ezra Mayers,Centre-Back,"Centre-Back, Left-Back"
+1111589,El Hadji Malick Diouf,Left-Back,"Left-Back, Left Midfield"
+922563,Oliver Scarles,Left-Back,"Left-Back, Left Midfield"
+477758,Aaron Wan-Bissaka,Right-Back,"Right-Back, Left-Back"
+341051,Kyle Walker-Peters,Right-Back,"Right-Back, Left-Back"
+745181,Soungoutou Magassa,Defensive Midfield,"Defensive Midfield, Centre-Back"
+283628,Tomáš Souček,Defensive Midfield,"Defensive Midfield, Central Midfield"
+698164,Freddie Potts,Defensive Midfield,"Defensive Midfield, Central Midfield"
+880245,Mateus Fernandes,Central Midfield,"Central Midfield, Attacking Midfield"
+474701,Crysencio Summerville,Left Winger,"Left Winger, Right Winger"
+1004203,Keiber Lamadrid,Left Winger,"Left Winger, Left Midfield"
+314875,Jarrod Bowen,Right Winger,"Right Winger, Centre-Forward"
+204103,Adama Traoré,Right Winger,"Right Winger, Centre-Forward"
+522784,Taty Castellanos,Centre-Forward,Centre-Forward
+817665,Pablo,Centre-Forward,"Centre-Forward, Right Winger"
+123682,Callum Wilson,Centre-Forward,Centre-Forward
+352041,Lucas Perri,Goalkeeper,Goalkeeper
+542586,Illan Meslier,Goalkeeper,Goalkeeper
+99397,Karl Darlow,Goalkeeper,Goalkeeper
+194386,Alex Cairns,Goalkeeper,Goalkeeper
+410708,Pascal Struijk,Centre-Back,"Centre-Back, Left-Back"
+371851,Jaka Bijol,Centre-Back,Centre-Back
+297212,Joe Rodon,Centre-Back,Centre-Back
+338629,Sebastiaan Bornauw,Centre-Back,Centre-Back
+362108,Gabriel Gudmundsson,Left-Back,"Left-Back, Left Midfield"
+236953,Sam Byram,Left-Back,"Left-Back, Right-Back"
+465717,Jayden Bogle,Right-Back,"Right-Back, Right Midfield"
+413220,James Justin,Right-Back,"Right-Back, Left-Back"
+392771,Ethan Ampadu,Defensive Midfield,"Defensive Midfield, Centre-Back"
+344069,Anton Stach,Defensive Midfield,"Defensive Midfield, Central Midfield"
+381753,Ilia Gruev,Defensive Midfield,"Defensive Midfield, Central Midfield"
+883539,Charlie Crew,Defensive Midfield,"Defensive Midfield, Central Midfield"
+346707,Sean Longstaff,Central Midfield,"Central Midfield, Attacking Midfield"
+489359,Ao Tanaka,Central Midfield,"Central Midfield, Defensive Midfield"
+393323,Brenden Aaronson,Attacking Midfield,"Attacking Midfield, Left Midfield"
+983989,Facundo Buonanotte,Attacking Midfield,"Attacking Midfield, Right Winger"
+346890,Noah Okafor,Left Winger,"Left Winger, Centre-Forward"
+627626,Wilfried Gnonto,Right Winger,"Right Winger, Left Winger"
+319301,Daniel James,Right Winger,"Right Winger, Left Winger"
+306024,Dominic Calvert-Lewin,Centre-Forward,"Centre-Forward, Second Striker"
+369962,Joël Piroe,Centre-Forward,"Centre-Forward, Attacking Midfield"
+314288,Lukas Nmecha,Centre-Forward,"Centre-Forward, Right Winger"
+249994,José Sá,Goalkeeper,Goalkeeper
+110864,Sam Johnstone,Goalkeeper,Goalkeeper
+136401,Daniel Bentley,Goalkeeper,Goalkeeper
+345911,Ladislav Krejci,Centre-Back,"Centre-Back, Defensive Midfield"
+606718,Toti,Centre-Back,"Centre-Back, Left-Back"
+716276,Yerson Mosquera,Centre-Back,"Centre-Back, Right-Back"
+438001,Santiago Bueno,Centre-Back,Centre-Back
+698678,Hugo Bueno,Left-Back,"Left-Back, Left Midfield"
+661427,David Møller Wolfe,Left-Back,"Left-Back, Left Midfield"
+848509,Jackson Tchatchoua,Right-Back,"Right-Back, Right Midfield"
+1193867,Pedro Lima,Right-Back,"Right-Back, Right Midfield"
+171679,Matt Doherty,Right-Back,"Right-Back, Right Midfield"
+800176,André,Defensive Midfield,"Defensive Midfield, Central Midfield"
+735570,João Gomes,Central Midfield,"Central Midfield, Defensive Midfield"
+450050,Jean-Ricner Bellegarde,Central Midfield,"Central Midfield, Defensive Midfield"
+667121,Rodrigo Gomes,Left Midfield,"Left Midfield, Right Midfield"
+1230661,Mateus Mané,Attacking Midfield,"Attacking Midfield, Centre-Forward"
+392770,Angel Gomes,Attacking Midfield,"Attacking Midfield, Central Midfield"
+1060740,Enso González,Left Winger,"Left Winger, Attacking Midfield"
+683571,Tolu Arokodare,Centre-Forward,Centre-Forward
+250426,Adam Armstrong,Centre-Forward,"Centre-Forward, Right Winger"
+292246,Hee-chan Hwang,Centre-Forward,"Centre-Forward, Left Winger"
+863741,Nathan Fraser,Centre-Forward,Centre-Forward
+829299,Max Weiß,Goalkeeper,Goalkeeper
+74960,Martin Dúbravka,Goalkeeper,Goalkeeper
+95795,Václav Hladký,Goalkeeper,Goalkeeper
+842341,Maxime Estève,Centre-Back,Centre-Back
+612517,Bashir Humphreys,Centre-Back,"Centre-Back, Left-Back"
+392179,Hjalmar Ekdal,Centre-Back,Centre-Back
+342046,Axel Tuanzebe,Centre-Back,"Centre-Back, Right-Back"
+415970,Joe Worrall,Centre-Back,Centre-Back
+403898,Jordan Beyer,Centre-Back,"Centre-Back, Right-Back"
+514285,Quilindschy Hartman,Left-Back,Left-Back
+927768,Lucas Pires,Left-Back,Left-Back
+95424,Kyle Walker,Right-Back,"Right-Back, Centre-Back"
+214666,Connor Roberts,Right-Back,"Right-Back, Left-Back"
+711999,Lesley Ugochukwu,Defensive Midfield,"Defensive Midfield, Central Midfield"
+357162,Florentino,Defensive Midfield,Defensive Midfield
+181579,James Ward-Prowse,Central Midfield,"Central Midfield, Attacking Midfield"
+242606,Josh Cullen,Central Midfield,"Central Midfield, Defensive Midfield"
+314241,Josh Laurent,Central Midfield,"Central Midfield, Attacking Midfield"
+607224,Hannibal,Attacking Midfield,"Attacking Midfield, Central Midfield"
+381963,Mike Tresor,Attacking Midfield,"Attacking Midfield, Left Winger"
+684210,Jaidon Anthony,Left Winger,"Left Winger, Right Winger"
+293281,Jacob Bruun Larsen,Left Winger,"Left Winger, Right Winger"
+607226,Loum Tchaouna,Right Winger,"Right Winger, Right Midfield"
+314367,Marcus Edwards,Right Winger,"Right Winger, Attacking Midfield"
+411537,Zian Flemming,Centre-Forward,"Centre-Forward, Attacking Midfield"
+467623,Lyle Foster,Centre-Forward,Centre-Forward
+548729,Zeki Amdouni,Centre-Forward,"Centre-Forward, Attacking Midfield"
+571743,Armando Broja,Centre-Forward,Centre-Forward
+63200,Ashley Barnes,Centre-Forward,"Centre-Forward, Second Striker"
